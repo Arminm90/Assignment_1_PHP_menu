@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+	float:inherit;
+}
+li{
+ 	float: left;
+	margin: 5px;
+	font-size:18px;
+}
+a{
+
+	
+}
+
+a:hover{
+	color:Red;
+}
+
+a.active{
+	color:Red;
+	}
